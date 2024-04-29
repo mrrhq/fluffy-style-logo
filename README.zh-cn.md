@@ -1,6 +1,12 @@
+[English](./README.md) | 简体中文
+
 ## 毛茸茸风格图标
 
 这里是用于共享 ComfyUI 工作流[毛茸茸风格图标](https://openart.ai/workflows/kejun/furryfluffy-style-icon-v11-v11/XueYOY1PYXXAHMcarWl8)生成的各种 logo 的仓库
+
+>[!IMPORTANT]
+> 如果你喜欢这个项目，希望你能给这个仓库点一个 star ⭐
+
 
 ## 图片列表
 
